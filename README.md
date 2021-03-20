@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+During the day I work in software development, specifically fullstack, I work with technologies such as React from the frontend and NodeJs or Java from the backend
+
+I am currently learning new technologies such as NextJS and GraphQL
+
+If you want to know more about me, here is my CV -- [`https://martin-amengual.herokuapp.com`](https://martin-amengual.herokuapp.com)
+
 <!--
 **martuuamengual/martuuamengual** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
