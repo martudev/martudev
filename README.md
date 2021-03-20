@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-During the day I work in software development, specifically fullstack, I work with technologies such as React from the frontend and NodeJs or Java from the backend
+During the day I work in Software Development, specifically FullStack, I work with technologies such as React from the frontend and NodeJs or Java from the backend
 
 I am currently learning new technologies such as NextJS and GraphQL
 
