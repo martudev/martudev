@@ -4,7 +4,7 @@ During the day I work in Software Development, specifically FullStack, I work wi
 
 I am currently learning new technologies such as NextJS and GraphQL
 
-If you want to know more about me, here is my CV -- [`https://martin-amengual.herokuapp.com`](https://martin-amengual.herokuapp.com)
+If you want to know more about me, here is my CV -- [`https://martuamengual.com`](https://martuamengual.com)
 
 <!--
 **martuuamengual/martuuamengual** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
