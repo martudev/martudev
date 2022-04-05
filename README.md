@@ -2,7 +2,7 @@
 
 During the day I work in Software Development, specifically FullStack, I work with technologies such as React from the frontend and NodeJs or Java from the backend
 
-I am currently learning new technologies such as NextJS and GraphQL
+I am currently learning new technologies such as Svelte and Web3 (Solidity and more)
 
 If you want to know more about me, here is my CV -- [`https://martuamengual.com`](https://martuamengual.com)
 
